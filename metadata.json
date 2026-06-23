@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse",
+  "description": "Civic collaborative platform enabling citizens to identify, report, validate, track, and resolve community issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
